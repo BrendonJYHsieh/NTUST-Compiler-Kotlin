@@ -1,2 +1,4 @@
 # NTUST-Compiler-Kotlin
- 
+ P1 83/100 10%
+ P2 112/100 20%
+ P3 99/100 20%
