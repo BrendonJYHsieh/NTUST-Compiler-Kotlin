@@ -1,0 +1,16 @@
+class boolexp{
+  val a = 5
+  var c:int = 0
+  
+  fun main(){
+    if((c>0)|(a>4))
+      println -c
+    else
+      println c
+
+    if((c>0)&(a>4))
+      println -c
+    else
+      println c
+  }
+}

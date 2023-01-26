@@ -1,0 +1,10 @@
+class forloop{
+  var i
+  var n = 0
+
+  fun main(){
+    for(i in 10..1)
+      n = n + 1
+    println n
+  }
+}
